@@ -82,7 +82,7 @@ Important Conclusions:
 
 ---
 
-Article - Summary of "Unlock the Power of HapKiDo: A Beginner’s Guide to Martial Arts" - https://trykarateclasses.com/2024/04/05/benefits-of-martial-arts-beginners-guide/
+# Article - Summary of "Unlock the Power of HapKiDo: A Beginner’s Guide to Martial Arts" - https://trykarateclasses.com/2024/04/05/benefits-of-martial-arts-beginners-guide/
 
 **Introduction to HapKiDo:**
 Choe’s HapKiDo Martial Arts Blog introduces HapKiDo as a transformative martial art suitable for individuals of all ages and skill levels. The guide aims to help beginners understand the fundamentals of HapKiDo and the benefits they can gain from practicing this Korean martial art.
@@ -156,7 +156,8 @@ Here's a comprehensive summary of the article "Taekwondo and Hapkido Compared" f
 - Both martial arts offer significant benefits in self-defense, character development, and fitness, but differ fundamentally in their techniques and philosophical approaches.
 - The choice between HapKiDo and Taekwondo depends on personal goals and preferences, whether one seeks practical self-defense skills or a challenging physical regimen.
 
-**Article Summary: Exploring the Differences Between HapKiDo and Brazilian Jiu-Jitsu (BJJ)** 
+# **Article Summary: Exploring the Differences Between HapKiDo and Brazilian Jiu-Jitsu (BJJ)** 
+
 https://trykarateclasses.com/2024/04/30/brazilian-jiu-jitsu-and-hapkido/
 
 **Introduction:**
