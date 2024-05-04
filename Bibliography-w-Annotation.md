@@ -1,4 +1,6 @@
-Reference listElahi, J., Mangal, R.K., Stead, T.S. and Ganti, L. (2024). A nationwide analysis of upper extremity injuries in martial arts. Orthopedic Reviews, [online] 16. doi:https://doi.org/10.52965/001c.116363 Overview:
+# Reference list
+
+Elahi, J., Mangal, R.K., Stead, T.S. and Ganti, L. (2024). A nationwide analysis of upper extremity injuries in martial arts. Orthopedic Reviews, [online] 16. doi:https://doi.org/10.52965/001c.116363 Overview:
 This study investigates the prevalence of upper extremity injuries associated with martial arts equipment using data from the National Electronic Injury Surveillance System (NEISS) over a ten-year period (2013-2022). It aims to enhance the understanding of injury trends within martial arts to better inform equipment design, healthcare provider knowledge, and risk mitigation strategies.
 
 Methodology:
